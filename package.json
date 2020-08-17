@@ -1,0 +1,25 @@
+{
+  "name": "ssulivan11",
+  "version": "1.0.0",
+  "description": "github landing readme",
+  "main": "README.md",
+  "husky": {
+    "hooks": {
+      "pre-commit": "prettier --write ."
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssulivan11/ssulivan11.git"
+  },
+  "author": "Scott Sullivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssulivan11/ssulivan11/issues"
+  },
+  "homepage": "https://github.com/ssulivan11/ssulivan11#readme",
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "prettier": "2.0.5"
+  }
+}
