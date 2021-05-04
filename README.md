@@ -10,11 +10,7 @@ I am [Scott Sullivan](https://scottsullivan.dev/), a software engineer who is pa
 - 🏗️ [buildsize-cli](https://github.com/ssulivan11/buildsize-cli)
 - 🏠 [landing-page](https://github.com/ssulivan11/landing-page)
 
-<br />
-
 ---
-
-<br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
