@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello there,
 
-I am Scott Sullivan, a software engineer who is passionate about many technologies and meticulous about quality. Besides programming, I do enjoy traveling, different sports and all assortments of food.
+I am [Scott Sullivan](https://scottsullivan.dev/), a software engineer who is passionate about many technologies and meticulous about quality. Besides programming, I do enjoy traveling, different sports and all assortments of food.
 
 ### ⚡ Recent doings
 
@@ -10,7 +10,11 @@ I am Scott Sullivan, a software engineer who is passionate about many technologi
 - 🏗️ [buildsize-cli](https://github.com/ssulivan11/buildsize-cli)
 - 🏠 [landing-page](https://github.com/ssulivan11/landing-page)
 
+<br />
+
 ---
+
+<br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
