@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="29px"> Hello there,
+## <img src="https://media1.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif?cid=ecf05e47h6lzhh52u0c59l2a9itjpx6iidjypwzuo6dnw0w7&rid=giphy.gif&ct=s" width="29px"> Hello there,
 
 I am [Scott Sullivan](https://scottsullivan.dev/), a software engineer who is passionate about many technologies and meticulous about quality. Besides programming, I do enjoy travelling, different sports and all assortments of food.
 
