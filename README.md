@@ -1,4 +1,4 @@
-## <img src="https://media1.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif?cid=ecf05e47h6lzhh52u0c59l2a9itjpx6iidjypwzuo6dnw0w7&rid=giphy.gif&ct=s" width="29px"> Hello there,
+## <img src="https://media4.giphy.com/media/Vhd10uVrDjMhAG7IyV/giphy.gif?cid=ecf05e47b295s6k7aqj4fwroh4ct7d3ya7scoeqe7fzfxa3x&rid=giphy.gif&ct=s" width="15px"> Hello there,
 
 I am [Scott Sullivan](https://scottsullivan.dev/), a software engineer who is passionate about many technologies and meticulous about quality. Besides programming, I do enjoy travelling, different sports and all assortments of food.
 
