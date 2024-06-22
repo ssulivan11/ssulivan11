@@ -24,7 +24,6 @@ I am [Scott Sullivan](https://scottsullivan.dev/), a software engineer who is pa
 <code><img height="20" src="https://avatars.githubusercontent.com/u/32196900?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/60cd2530141f67f07a947fa2d310c482e287e387/topics/playwright/playwright.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
